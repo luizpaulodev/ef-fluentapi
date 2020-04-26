@@ -1,2 +1,2 @@
 # ef-fluentapi
-Utilizando FluentApi com EntityFramework 6
+Utilizando EntityFramework 6 com FluentApi
